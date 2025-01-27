@@ -16,15 +16,29 @@
     --booleano-back : #f6f5f3;
 }
 
+body{
+    background-color: var(--booleano-back);
+}
+
+
+.container{
+    width:70%;
+    margin: auto;
+    padding: 1rem;
+
+}
+
 header{
-    font-family:'Nerko One', cursive;
-    font: 42px;
+    background-color: white;
 
     h1{
-        color: var(--booleano-header);
+        color: #ff9614;
+        size: 42px;
     }
 }
 
+
 main{
-    background-color: var(--booleano-back);
+    
 }
+
