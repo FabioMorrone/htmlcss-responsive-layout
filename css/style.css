@@ -1,0 +1,17 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --booleano-primary:#7c69a4;
+    --booleano-header: #ff9614;
+    --booleano-title: #4e3969;
+    --booleano-dark: #020202;
+    --booleano-light-dark: #aeb5b9;
+}
+
