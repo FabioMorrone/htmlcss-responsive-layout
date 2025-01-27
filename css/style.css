@@ -13,5 +13,18 @@
     --booleano-title: #4e3969;
     --booleano-dark: #020202;
     --booleano-light-dark: #aeb5b9;
+    --booleano-back : #f6f5f3;
 }
 
+header{
+    font-family:'Nerko One', cursive;
+    font: 42px;
+
+    h1{
+        color: var(--booleano-header);
+    }
+}
+
+main{
+    background-color: var(--booleano-back);
+}
